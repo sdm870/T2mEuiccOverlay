@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_slot_mappings_json">{\"sim-slot-mappings\":[{\"devices\":[\"FP4\",\"FP4\"],\"esim-slot-ids\":[1],\"psim-slot-ids\":[0]}]}</string>
+</resources>
