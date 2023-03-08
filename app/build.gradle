@@ -29,6 +29,4 @@ android {
     lint {
         abortOnError false
     }
-
-    namespace 'com.t2m.euiccoverlay'
 }
