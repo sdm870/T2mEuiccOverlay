@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.t2m.euiccoverlay"
-    android:compileSdkVersion="30"
-    android:compileSdkVersionCodename="11"
     platformBuildVersionCode="30"
     platformBuildVersionName="11"
+    android:compileSdkVersion="30"
+    android:compileSdkVersionCodename="11"
     android:versionCode="30"
     android:versionName="11">
 
